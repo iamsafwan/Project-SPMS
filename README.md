@@ -2,25 +2,25 @@
 Student Placement Management System is a PHP based portal created to increase and improve the productivity of the placement cell at the Integral University by effectively using enrolled student data for corporate placements.
 
 
-![Process Image](/static/Home.png)
+![Progress Image](/static/Home.png)
 
-![Process Image](/static/FinalYear.png)
+![Progress Image](/static/FinalYear.png)
 
-![Process Image](/static/Recruiters.png)
+![Progress Image](/static/Recruiters.png)
 
-![Process Image](/static/Contacts.png)
+![Progress Image](/static/Contacts.png)
 
-![Process Image](/static/Login.png)
+![Progress Image](/static/Login.png)
 
-![Process Image](/static/Dashboard.png)
+![Progress Image](/static/Dashboard.png)
 
-![Process Image](/static/AddRemoveStudent.png)
+![Progress Image](/static/AddRemoveStudent.png)
 
-![Process Image](/static/EditStudentData.png)
+![Progress Image](/static/EditStudentData.png)
 
-![Process Image](/static/ManageRecruiter.png)
+![Progress Image](/static/ManageRecruiter.png)
 
-![Process Image](/static/Settings.png)
+![Progress Image](/static/Settings.png)
 
 **Full source code of the project will be uploaded soon.**
 
