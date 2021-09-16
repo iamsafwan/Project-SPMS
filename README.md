@@ -24,7 +24,7 @@ Student Placement Management System is a PHP based portal created to increase an
 
 **Full source code of the project will be uploaded soon.**
 
-## The Dashboad is powered by
+## Student Placement Management System is powered by
 **Backend:**
 - PHP
 - MYSQL
