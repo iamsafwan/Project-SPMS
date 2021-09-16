@@ -45,4 +45,4 @@ Student Placement Management System is a PHP based portal created to increase an
 
 ## Contact
 
-Feel free to reach out to me at my 📫 [Personal email](mailto:safwanzk@outlook.com?subject=From%20Github%3A%20Project%20SMPS&body=Hi%20Safwan!%0D%0A%0D%0AI%20would%20like%20some%20information%20regarding%20your%20awesome%20Project%20SMPS)  for more details about this project. 
+Feel free to reach out to me at my 📫 [Personal email](mailto:safwanzk@outlook.com?subject=From%20Github%3A%20Project%20SPMS&body=Hi%20Safwan!%0D%0A%0D%0AI%20would%20like%20some%20information%20regarding%20your%20awesome%20Project%20SPMS)  for more details about this project. 
