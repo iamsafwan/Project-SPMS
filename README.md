@@ -1,5 +1,5 @@
 # Welcome to Project-SPMS :tada: 
-Student Placement Management System is a PHP based portal created to increase and improve the productivity of the placement cell at the Integral University by effectively using enrolled student data for corporate placements.
+Student Placement Management System is a PHP based portal created to increase and improve the productivity of the placement department at the Integral University by effectively using enrolled student data for corporate placements.
 
 
 ![Progress Image](/statics/Home.png)
